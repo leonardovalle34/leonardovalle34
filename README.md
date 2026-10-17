@@ -76,7 +76,7 @@ flowchart LR
 `Python` `BigQuery` `Cloud Workflows` `Cloud Scheduler` `Cloud Run` `FastAPI` `Vue 3` `Pinia` `ApexCharts`
 · Repos: [pipeline & API](https://github.com/leonardovalle34/brazil-jobs) · [front end](https://github.com/leonardovalle34/brazil-jobs-front)
 
-### 🌊 Storm Tracker
+### 🌊 Storm Tracker · [Live](https://storm-tracker-view.vercel.app/)
 
 Weather and ocean conditions for any point in the world: satellite map, 16-day forecast, hourly wind grid, swell, tide and water temperature, activity recommendations (surf, kite, swimming, diving) and in-app weather alerts, in 5 languages. Own API on Cloud Run with CI/CD through GitHub Actions.
 
