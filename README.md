@@ -3,7 +3,7 @@
 <p align="center">
   <b>Data Engineer & Full-Stack Developer</b><br/>
   From raw data to dashboards: cloud data pipelines on GCP and modern web apps.<br/>
-  📍 Joinville, SC, Brazil
+  📍 Brazil
 </p>
 
 <p align="center">
