@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  🇺🇸 <b>English</b> · 🇧🇷 <a href="https://github.com/leonardovalle34/leonardovalle34/blob/main/README.pt-BR.md">Português</a>
+</p>
+
+<p align="center">
   <a href="https://leonardovalle34.github.io/cv"><img src="https://img.shields.io/badge/Portfolio-leonardovalle34.github.io%2Fcv-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/leonardovalle34/"><img src="https://img.shields.io/badge/LinkedIn-leonardovalle34-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:leonardovalle18@gmail.com"><img src="https://img.shields.io/badge/Email-leonardovalle18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
