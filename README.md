@@ -18,7 +18,7 @@
 
 - 📊 **Data Engineer at RIA Catalyst**, a US-based M&A intelligence platform for Registered Investment Advisors, building pipelines with **Python, BigQuery and Google Cloud**.
 - 💻 **5+ years of web development** for international teams (USA, Canada and Europe) with **React, Vue and TypeScript**, plus back-end work in Node.js, FastAPI and Supabase.
-- 🚀 Co-founder of **[DrenaApp](https://drenaapp.online)** and **HireUp**, two SaaS products in production with paying users.
+- 🚀 Co-founder of **[HireUp](https://hireup.online)**, a SaaS product in production with paying users.
 - 🌎 Fluent in English after 10+ years living and working abroad. I also run Fast English, an online English school, since 2012.
 
 ---
@@ -83,13 +83,7 @@ Weather and ocean conditions for any point in the world: satellite map, 16-day f
 `FastAPI` `Cloud Run` `GitHub Actions` `Vue 3` `TypeScript` `Tailwind` `Leaflet`
 · Repos: [back end](https://github.com/leonardovalle34/storm-tracker-backend) · [front end](https://github.com/leonardovalle34/storm-tracker-frontend)
 
-### 💧 DrenaApp · [drenaapp.online](https://drenaapp.online)
-
-SaaS for hydraulic dimensioning of road drainage structures. Three automatic calculation methods (Rational, Corrected Rational, SCS), with results validated against an engineering partner's spreadsheet to under 0.3% error.
-
-`Vue 3` `TypeScript` `Supabase` `Tailwind` `Stripe`
-
-### 🎓 HireUp
+### 🎓 HireUp · [hireup.online](https://hireup.online)
 
 English-learning PWA with a 40-lesson track, badges and PDF certificates, a 405-question quiz across 5 levels and a news feed refreshed automatically from 7 sources.
 
